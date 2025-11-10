@@ -1,5 +1,3 @@
 node_modules
 _site
-package-lock.json
-package.json
-.eleventy.js 
+ignore for now
